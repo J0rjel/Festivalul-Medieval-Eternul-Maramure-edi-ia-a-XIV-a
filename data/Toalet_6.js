@@ -1,0 +1,1 @@
+var json_Toalet_6 = {"type":"FeatureCollection","name":"Toalet_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Descriere":"O locație fundamentală pentru confortul participanților"},"geometry":{"type":"Point","coordinates":[23.891875165391006,47.927705483431247]}}]}
